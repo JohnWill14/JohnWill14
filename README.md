@@ -12,11 +12,8 @@
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain.svg">
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-<<<<<<< HEAD
- <img align="right" alt="gatinho" height="70" style="border-radius:100px;" src="https://i.gifer.com/origin/6c/6c9ea441aacc292a31d3fd7184a456e3.gif">
-=======
  <img align="right" alt="gabs-pato" height="80" style="border-radius:100px;" src="https://i.gifer.com/origin/6c/6c9ea441aacc292a31d3fd7184a456e3.gif">
->>>>>>> c50e6fe2082d60ca1c4cfaa59ccaf9f1c002f733
+
   
 </div>
   
