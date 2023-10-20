@@ -1,8 +1,3 @@
-<div align="center">  
-    <img src="https://capsule-render.vercel.app/api?type=waving&section=header&text=Hello%20World&fontSize=90&animation=twinkling&theme=cobalt&height=400" width="100%" /> 
-</div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c576c1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+John+William;+Welcome!!!;)](https://git.io/typing-svg)
 
 <div align="center">  
 
@@ -14,5 +9,3 @@
  
 
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&theme=cobalt&height=100" width="100%" /> 
