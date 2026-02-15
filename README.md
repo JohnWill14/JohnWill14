@@ -33,16 +33,6 @@
 🚧 *Coming soon!* — I’m actively working on new projects to showcase here. Stay tuned!  
 Feel free to check my repositories and follow my journey! 💡
 
----
-
-### 📊 GitHub Stats
-
-<div align="center" style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnWill14&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 40%; max-width: 500px; height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnWill14&layout=compact&theme=tokyonight" alt="Top Languages" style="width: 40%; max-width: 500px; height: 200px;" />
-</div>
-
-
 
 ---
 
