@@ -2,14 +2,14 @@
 <h1 align="center">Hi there 👋, I'm JohnWill14</h1>
 
 <p align="center">
-  <em>Backend Developer | Java Enthusiast | Aspiring Data Scientist</em>
+  <em>Backend Developer | Java Enthusiast </em>
 </p>
 
 ---
 
 ### 💻 About Me
 
-🎯 I'm a **Backend Java Developer** with 3 years of experience, mainly working with:
+🎯 I'm a **Backend Java Developer** with 4 years of experience, mainly working with:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
@@ -24,8 +24,6 @@
 ###
 
 🌱 I'm currently learning and expanding my knowledge in:
-- 🐳 Containers: Docker & Kubernetes
-- 🧠 Machine Learning and Data Science (Kaggle-focused)
 - 💡 System Design and Algorithms
 
 ---
